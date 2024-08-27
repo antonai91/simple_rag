@@ -1,0 +1,2 @@
+https://medium.com/@turna.fardousi/how-to-build-a-simple-rag-llm-chatbot-47f3fcec8c85
+https://www.bentoml.com/blog/building-rag-with-open-source-and-custom-ai-models
